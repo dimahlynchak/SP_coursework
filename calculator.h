@@ -4,8 +4,10 @@
 class Calculator
 {
     public:
-        int Add (double, double);
-        int Sub (double, double);
+        int Add(double, double);  // Додаток
+        int Sub(double, double);   // Віднімання
+        int Mul(double, double);   // Множення
 };
 
-#endif//CALCULATOR_H
+#endif // CALCULATOR_H
+
