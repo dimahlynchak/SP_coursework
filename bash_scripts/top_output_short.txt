@@ -1,0 +1,5 @@
+Processes: 381 total, 3 running, 378 sleeping, 1640 threads 
+2024/10/28 13:36:50
+Load Avg: 2.34, 2.42, 2.33 
+CPU usage: 11.73% user, 17.33% sys, 70.93% idle 
+SharedLibs: 307M resident, 47M data, 18M linkedit.
